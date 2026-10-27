@@ -1,423 +1,403 @@
 {
-  "packs": [
+  "name": "Chess.com",
+  "board": [
     {
-      "name": "Chess.com",
-      "pieces": "pieces/neo/{piece}.webp",
-      "board": {
-        "image": "boards/green/board.webp",
-        "light": "#ebecd0",
-        "dark": "#739552"
-      },
-      "sounds": {
-        "move-self": "sounds/move-self.mp3",
-        "move-opponent": "sounds/move-opponent.mp3",
-        "move-check": "sounds/move-check.mp3",
-        "capture": "sounds/capture.mp3",
-        "castle": "sounds/castle.mp3",
-        "promote": "sounds/promote.mp3",
-        "premove": "sounds/premove.mp3",
-        "illegal": "sounds/illegal.mp3",
-        "notify": "sounds/notify.mp3",
-        "tenseconds": "sounds/tenseconds.mp3",
-        "game-start": "sounds/game-start.mp3",
-        "game-end": "sounds/game-end.mp3"
-      }
-    },
-    {
-      "name": "Neo Angle",
-      "pieces": "pieces/8qetl/{piece}.webp"
-    },
-    {
-      "name": "Game Room",
-      "pieces": "pieces/game_room/{piece}.webp"
-    },
-    {
-      "name": "Wood",
-      "pieces": "pieces/wood/{piece}.webp"
-    },
-    {
-      "name": "Glass",
-      "pieces": "pieces/glass/{piece}.webp",
-      "board": {
-        "image": "boards/glass/board.webp",
-        "light": "#717b8e",
-        "dark": "#282e3c"
-      }
-    },
-    {
-      "name": "Gothic",
-      "pieces": "pieces/gothic/{piece}.webp"
-    },
-    {
-      "name": "Classic",
-      "pieces": "pieces/classic/{piece}.webp"
-    },
-    {
-      "name": "Metal",
-      "pieces": "pieces/metal/{piece}.webp",
-      "board": {
-        "image": "boards/metal/board.webp",
-        "light": "#d7d7d7",
-        "dark": "#767675"
-      }
-    },
-    {
-      "name": "Bases",
-      "pieces": "pieces/bases/{piece}.webp",
-      "board": {
-        "image": "boards/bases/board.webp",
-        "light": "#efc99e",
-        "dark": "#c56e3a"
-      }
-    },
-    {
-      "name": "Neo-Wood",
-      "pieces": "pieces/neo_wood/{piece}.webp"
-    },
-    {
-      "name": "Icy Sea",
-      "pieces": "pieces/icy_sea/{piece}.webp",
-      "board": {
-        "image": "boards/icy_sea/board.webp",
-        "light": "#d4dfe4",
-        "dark": "#7fa1b5"
-      }
-    },
-    {
-      "name": "Club",
-      "pieces": "pieces/club/{piece}.webp"
-    },
-    {
-      "name": "Ocean",
-      "pieces": "pieces/ocean/{piece}.webp"
-    },
-    {
-      "name": "Newspaper",
-      "pieces": "pieces/newspaper/{piece}.webp",
-      "board": {
-        "image": "boards/newspaper/board.webp",
-        "light": "#cfcdc4",
-        "dark": "#a09e98"
-      }
-    },
-    {
-      "name": "Space",
-      "pieces": "pieces/space/{piece}.webp"
-    },
-    {
-      "name": "Cases",
-      "pieces": "pieces/cases/{piece}.webp"
-    },
-    {
-      "name": "Condal",
-      "pieces": "pieces/condal/{piece}.webp"
-    },
-    {
-      "name": "8-Bit",
-      "pieces": "pieces/8_bit/{piece}.webp",
-      "board": {
-        "image": "boards/8_bit/board.webp",
-        "light": "#f3f3f4",
-        "dark": "#6a9b41"
-      }
-    },
-    {
-      "name": "Marble",
-      "pieces": "pieces/marble/{piece}.webp",
-      "board": {
-        "image": "boards/marble/board.webp",
-        "light": "#c4bda7",
-        "dark": "#716c66"
-      }
-    },
-    {
-      "name": "Book",
-      "pieces": "pieces/book/{piece}.webp"
-    },
-    {
-      "name": "Alpha",
-      "pieces": "pieces/alpha/{piece}.webp"
-    },
-    {
-      "name": "Bubblegum",
-      "pieces": "pieces/bubblegum/{piece}.webp",
-      "board": {
-        "image": "boards/bubblegum/board.webp",
-        "light": "#fefffe",
-        "dark": "#fbd9e1"
-      }
-    },
-    {
-      "name": "Dash",
-      "pieces": "pieces/dash/{piece}.webp",
-      "board": {
-        "image": "boards/dash/board.webp",
-        "light": "#ba8e52",
-        "dark": "#6a3826"
-      }
-    },
-    {
-      "name": "Graffiti",
-      "pieces": "pieces/graffiti/{piece}.webp",
-      "board": {
-        "image": "boards/graffiti/board.webp",
-        "light": "#919191",
-        "dark": "#a68866"
-      }
-    },
-    {
-      "name": "Light",
-      "pieces": "pieces/light/{piece}.webp",
-      "board": {
-        "image": "boards/light/board.webp",
-        "light": "#d8d9d8",
-        "dark": "#a8a9a8"
-      }
-    },
-    {
-      "name": "Lolz",
-      "pieces": "pieces/lolz/{piece}.webp",
-      "board": {
-        "image": "boards/lolz/board.webp",
-        "light": "#d9e3e4",
-        "dark": "#9ba4a3"
-      }
-    },
-    {
-      "name": "Luca",
-      "pieces": "pieces/luca/{piece}.webp"
-    },
-    {
-      "name": "Maya",
-      "pieces": "pieces/maya/{piece}.webp"
-    },
-    {
-      "name": "Modern",
-      "pieces": "pieces/modern/{piece}.webp"
-    },
-    {
-      "name": "Nature",
-      "pieces": "pieces/nature/{piece}.webp"
-    },
-    {
-      "name": "Neon",
-      "pieces": "pieces/neon/{piece}.webp",
-      "board": {
-        "image": "boards/neon/board.webp",
-        "light": "#c3c5c5",
-        "dark": "#655c58"
-      }
-    },
-    {
-      "name": "Sky",
-      "pieces": "pieces/sky/{piece}.webp",
-      "board": {
-        "image": "boards/sky/board.webp",
-        "light": "#f0f1f0",
-        "dark": "#c4d8e4"
-      }
-    },
-    {
-      "name": "Tigers",
-      "pieces": "pieces/tigers/{piece}.webp"
-    },
-    {
-      "name": "Tournament",
-      "pieces": "pieces/tournament/{piece}.webp",
-      "board": {
-        "image": "boards/tournament/board.webp",
-        "light": "#e9e9e6",
-        "dark": "#32674a"
-      }
-    },
-    {
-      "name": "Vintage",
-      "pieces": "pieces/vintage/{piece}.webp"
-    },
-    {
-      "name": "Band Class",
-      "pieces": "pieces/ca09k/{piece}.webp",
-      "board": {
-        "image": "boards/ohdxn/board.webp",
-        "light": "#ebddb7",
-        "dark": "#8e8d90"
-      }
-    },
-    {
-      "name": "3D - Wood",
-      "pieces": "pieces/3d_wood/{piece}.webp"
-    },
-    {
-      "name": "3D - Staunton",
-      "pieces": "pieces/3d_staunton/{piece}.webp"
-    },
-    {
-      "name": "3D - Plastic",
-      "pieces": "pieces/3d_plastic/{piece}.webp"
-    },
-    {
-      "name": "3D - ChessKid",
-      "pieces": "pieces/3d_chesskid/{piece}.webp"
+      "name": "Green",
+      "image": "boards/green/board.webp",
+      "light": "#ebecd0",
+      "dark": "#739552"
     },
     {
       "name": "Dark Wood",
-      "board": {
-        "image": "boards/dark_wood/board.webp",
-        "light": "#c3a370",
-        "dark": "#7e5736"
-      }
+      "image": "boards/dark_wood/board.webp",
+      "light": "#c3a370",
+      "dark": "#7e5736"
+    },
+    {
+      "name": "Glass",
+      "image": "boards/glass/board.webp",
+      "light": "#717b8e",
+      "dark": "#282e3c"
     },
     {
       "name": "Brown",
-      "board": {
-        "image": "boards/brown/board.webp",
-        "light": "#edd6b0",
-        "dark": "#b88762"
-      }
+      "image": "boards/brown/board.webp",
+      "light": "#edd6b0",
+      "dark": "#b88762"
+    },
+    {
+      "name": "Icy Sea",
+      "image": "boards/icy_sea/board.webp",
+      "light": "#d4dfe4",
+      "dark": "#7fa1b5"
+    },
+    {
+      "name": "Newspaper",
+      "image": "boards/newspaper/board.webp",
+      "light": "#cfcdc4",
+      "dark": "#a09e98"
     },
     {
       "name": "Walnut",
-      "board": {
-        "image": "boards/walnut/board.webp",
-        "light": "#ba9e79",
-        "dark": "#73533a"
-      }
+      "image": "boards/walnut/board.webp",
+      "light": "#ba9e79",
+      "dark": "#73533a"
+    },
+    {
+      "name": "Sky",
+      "image": "boards/sky/board.webp",
+      "light": "#f0f1f0",
+      "dark": "#c4d8e4"
+    },
+    {
+      "name": "Lolz",
+      "image": "boards/lolz/board.webp",
+      "light": "#d9e3e4",
+      "dark": "#9ba4a3"
     },
     {
       "name": "Stone",
-      "board": {
-        "image": "boards/stone/board.webp",
-        "light": "#b0aca5",
-        "dark": "#4e4c4b"
-      }
+      "image": "boards/stone/board.webp",
+      "light": "#b0aca5",
+      "dark": "#4e4c4b"
+    },
+    {
+      "name": "Bases",
+      "image": "boards/bases/board.webp",
+      "light": "#efc99e",
+      "dark": "#c56e3a"
+    },
+    {
+      "name": "8-Bit",
+      "image": "boards/8_bit/board.webp",
+      "light": "#f3f3f4",
+      "dark": "#6a9b41"
+    },
+    {
+      "name": "Marble",
+      "image": "boards/marble/board.webp",
+      "light": "#c4bda7",
+      "dark": "#716c66"
     },
     {
       "name": "Purple",
-      "board": {
-        "image": "boards/purple/board.webp",
-        "light": "#f0f1f0",
-        "dark": "#8476ba"
-      }
+      "image": "boards/purple/board.webp",
+      "light": "#f0f1f0",
+      "dark": "#8476ba"
     },
     {
       "name": "Translucent",
-      "board": {
-        "image": "boards/translucent/board.webp",
-        "light": "#efefef",
-        "dark": "#ababab"
-      }
+      "image": "boards/translucent/board.webp",
+      "light": "#efefef",
+      "dark": "#ababab"
+    },
+    {
+      "name": "Metal",
+      "image": "boards/metal/board.webp",
+      "light": "#d7d7d7",
+      "dark": "#767675"
+    },
+    {
+      "name": "Tournament",
+      "image": "boards/tournament/board.webp",
+      "light": "#e9e9e6",
+      "dark": "#32674a"
+    },
+    {
+      "name": "Dash",
+      "image": "boards/dash/board.webp",
+      "light": "#ba8e52",
+      "dark": "#6a3826"
     },
     {
       "name": "Burled Wood",
-      "board": {
-        "image": "boards/burled_wood/board.webp",
-        "light": "#e8c39a",
-        "dark": "#744025"
-      }
+      "image": "boards/burled_wood/board.webp",
+      "light": "#e8c39a",
+      "dark": "#744025"
     },
     {
       "name": "Blue",
-      "board": {
-        "image": "boards/4fs27/board.webp",
-        "light": "#f2f6fa",
-        "dark": "#5596f2"
-      }
+      "image": "boards/4fs27/board.webp",
+      "light": "#f2f6fa",
+      "dark": "#5596f2"
     },
     {
       "name": "Dark Blue",
-      "board": {
-        "image": "boards/blue/board.webp",
-        "light": "#eae9d2",
-        "dark": "#4b7399"
-      }
+      "image": "boards/blue/board.webp",
+      "light": "#eae9d2",
+      "dark": "#4b7399"
+    },
+    {
+      "name": "Bubblegum",
+      "image": "boards/bubblegum/board.webp",
+      "light": "#fefffe",
+      "dark": "#fbd9e1"
     },
     {
       "name": "Checkers",
-      "board": {
-        "image": "boards/checkers/board.webp",
-        "light": "#c64d52",
-        "dark": "#333333"
-      }
+      "image": "boards/checkers/board.webp",
+      "light": "#c64d52",
+      "dark": "#333333"
+    },
+    {
+      "name": "Graffiti",
+      "image": "boards/graffiti/board.webp",
+      "light": "#919191",
+      "dark": "#a68866"
+    },
+    {
+      "name": "Light",
+      "image": "boards/light/board.webp",
+      "light": "#d8d9d8",
+      "dark": "#a8a9a8"
+    },
+    {
+      "name": "Neon",
+      "image": "boards/neon/board.webp",
+      "light": "#c3c5c5",
+      "dark": "#655c58"
     },
     {
       "name": "Orange",
-      "board": {
-        "image": "boards/orange/board.webp",
-        "light": "#fae4ae",
-        "dark": "#d18815"
-      }
+      "image": "boards/orange/board.webp",
+      "light": "#fae4ae",
+      "dark": "#d18815"
     },
     {
       "name": "Parchment",
-      "board": {
-        "image": "boards/parchment/board.webp",
-        "light": "#d5d0b2",
-        "dark": "#af955c"
-      }
+      "image": "boards/parchment/board.webp",
+      "light": "#d5d0b2",
+      "dark": "#af955c"
     },
     {
       "name": "Pink",
-      "board": {
-        "image": "boards/g715q/board.webp",
-        "light": "#f5f0f1",
-        "dark": "#ec94a4"
-      }
+      "image": "boards/g715q/board.webp",
+      "light": "#f5f0f1",
+      "dark": "#ec94a4"
     },
     {
       "name": "Red",
-      "board": {
-        "image": "boards/red/board.webp",
-        "light": "#f5dbc3",
-        "dark": "#bb5746"
-      }
+      "image": "boards/red/board.webp",
+      "light": "#f5dbc3",
+      "dark": "#bb5746"
     },
     {
       "name": "Sand",
-      "board": {
-        "image": "boards/sand/board.webp",
-        "light": "#d3c4b7",
-        "dark": "#c0ab97"
-      }
+      "image": "boards/sand/board.webp",
+      "light": "#d3c4b7",
+      "dark": "#c0ab97"
     },
     {
       "name": "Tan",
-      "board": {
-        "image": "boards/tan/board.webp",
-        "light": "#edcba5",
-        "dark": "#d8a46d"
-      }
+      "image": "boards/tan/board.webp",
+      "light": "#edcba5",
+      "dark": "#d8a46d"
     },
     {
       "name": "Sky and Sea",
-      "board": {
-        "image": "boards/6m5lc/board.webp",
-        "light": "#90bdcd",
-        "dark": "#064b85"
-      }
+      "image": "boards/6m5lc/board.webp",
+      "light": "#90bdcd",
+      "dark": "#064b85"
     },
     {
       "name": "Chess the Musical",
-      "board": {
-        "image": "boards/my2xa/board.webp",
-        "light": "#d7d4d4",
-        "dark": "#807b76"
-      }
+      "image": "boards/my2xa/board.webp",
+      "light": "#d7d4d4",
+      "dark": "#807b76"
+    },
+    {
+      "name": "Band Class",
+      "image": "boards/ohdxn/board.webp",
+      "light": "#ebddb7",
+      "dark": "#8e8d90"
     },
     {
       "name": "Naroditsky Memorial",
-      "board": {
-        "image": "boards/bju81/board.webp",
-        "light": "#fbfae9",
-        "dark": "#cea861"
-      }
+      "image": "boards/bju81/board.webp",
+      "light": "#fbfae9",
+      "dark": "#cea861"
     },
     {
       "name": "Esports World Cup",
-      "board": {
-        "image": "boards/z4m3d/board.webp",
-        "light": "#f7f7f7",
-        "dark": "#ccaa6c"
-      }
+      "image": "boards/z4m3d/board.webp",
+      "light": "#f7f7f7",
+      "dark": "#ccaa6c"
     }
-  ]
+  ],
+  "pieces": [
+    {
+      "name": "Neo",
+      "path": "pieces/neo/{piece}.webp"
+    },
+    {
+      "name": "Neo Angle",
+      "path": "pieces/8qetl/{piece}.webp"
+    },
+    {
+      "name": "Game Room",
+      "path": "pieces/game_room/{piece}.webp"
+    },
+    {
+      "name": "Wood",
+      "path": "pieces/wood/{piece}.webp"
+    },
+    {
+      "name": "Glass",
+      "path": "pieces/glass/{piece}.webp"
+    },
+    {
+      "name": "Gothic",
+      "path": "pieces/gothic/{piece}.webp"
+    },
+    {
+      "name": "Classic",
+      "path": "pieces/classic/{piece}.webp"
+    },
+    {
+      "name": "Metal",
+      "path": "pieces/metal/{piece}.webp"
+    },
+    {
+      "name": "Bases",
+      "path": "pieces/bases/{piece}.webp"
+    },
+    {
+      "name": "Neo-Wood",
+      "path": "pieces/neo_wood/{piece}.webp"
+    },
+    {
+      "name": "Icy Sea",
+      "path": "pieces/icy_sea/{piece}.webp"
+    },
+    {
+      "name": "Club",
+      "path": "pieces/club/{piece}.webp"
+    },
+    {
+      "name": "Ocean",
+      "path": "pieces/ocean/{piece}.webp"
+    },
+    {
+      "name": "Newspaper",
+      "path": "pieces/newspaper/{piece}.webp"
+    },
+    {
+      "name": "Space",
+      "path": "pieces/space/{piece}.webp"
+    },
+    {
+      "name": "Cases",
+      "path": "pieces/cases/{piece}.webp"
+    },
+    {
+      "name": "Condal",
+      "path": "pieces/condal/{piece}.webp"
+    },
+    {
+      "name": "8-Bit",
+      "path": "pieces/8_bit/{piece}.webp"
+    },
+    {
+      "name": "Marble",
+      "path": "pieces/marble/{piece}.webp"
+    },
+    {
+      "name": "Book",
+      "path": "pieces/book/{piece}.webp"
+    },
+    {
+      "name": "Alpha",
+      "path": "pieces/alpha/{piece}.webp"
+    },
+    {
+      "name": "Bubblegum",
+      "path": "pieces/bubblegum/{piece}.webp"
+    },
+    {
+      "name": "Dash",
+      "path": "pieces/dash/{piece}.webp"
+    },
+    {
+      "name": "Graffiti",
+      "path": "pieces/graffiti/{piece}.webp"
+    },
+    {
+      "name": "Light",
+      "path": "pieces/light/{piece}.webp"
+    },
+    {
+      "name": "Lolz",
+      "path": "pieces/lolz/{piece}.webp"
+    },
+    {
+      "name": "Luca",
+      "path": "pieces/luca/{piece}.webp"
+    },
+    {
+      "name": "Maya",
+      "path": "pieces/maya/{piece}.webp"
+    },
+    {
+      "name": "Modern",
+      "path": "pieces/modern/{piece}.webp"
+    },
+    {
+      "name": "Nature",
+      "path": "pieces/nature/{piece}.webp"
+    },
+    {
+      "name": "Neon",
+      "path": "pieces/neon/{piece}.webp"
+    },
+    {
+      "name": "Sky",
+      "path": "pieces/sky/{piece}.webp"
+    },
+    {
+      "name": "Tigers",
+      "path": "pieces/tigers/{piece}.webp"
+    },
+    {
+      "name": "Tournament",
+      "path": "pieces/tournament/{piece}.webp"
+    },
+    {
+      "name": "Vintage",
+      "path": "pieces/vintage/{piece}.webp"
+    },
+    {
+      "name": "Band Class",
+      "path": "pieces/ca09k/{piece}.webp"
+    },
+    {
+      "name": "3D - Wood",
+      "path": "pieces/3d_wood/{piece}.webp"
+    },
+    {
+      "name": "3D - Staunton",
+      "path": "pieces/3d_staunton/{piece}.webp"
+    },
+    {
+      "name": "3D - Plastic",
+      "path": "pieces/3d_plastic/{piece}.webp"
+    },
+    {
+      "name": "3D - ChessKid",
+      "path": "pieces/3d_chesskid/{piece}.webp"
+    }
+  ],
+  "sounds": {
+    "move-self": "sounds/move-self.mp3",
+    "move-opponent": "sounds/move-opponent.mp3",
+    "move-check": "sounds/move-check.mp3",
+    "capture": "sounds/capture.mp3",
+    "castle": "sounds/castle.mp3",
+    "promote": "sounds/promote.mp3",
+    "premove": "sounds/premove.mp3",
+    "illegal": "sounds/illegal.mp3",
+    "notify": "sounds/notify.mp3",
+    "tenseconds": "sounds/tenseconds.mp3",
+    "game-start": "sounds/game-start.mp3",
+    "game-end": "sounds/game-end.mp3"
+  }
 }
