@@ -1,0 +1,84 @@
+{
+  "packs": [
+    {
+      "name": "Alpha",
+      "pieces": "alpha/{piece}.webp"
+    },
+    {
+      "name": "Bubblegum",
+      "pieces": "bubblegum/{piece}.webp"
+    },
+    {
+      "name": "Dash",
+      "pieces": "dash/{piece}.webp"
+    },
+    {
+      "name": "Graffiti",
+      "pieces": "graffiti/{piece}.webp"
+    },
+    {
+      "name": "Light",
+      "pieces": "light/{piece}.webp"
+    },
+    {
+      "name": "Lolz",
+      "pieces": "lolz/{piece}.webp"
+    },
+    {
+      "name": "Luca",
+      "pieces": "luca/{piece}.webp"
+    },
+    {
+      "name": "Maya",
+      "pieces": "maya/{piece}.webp"
+    },
+    {
+      "name": "Modern",
+      "pieces": "modern/{piece}.webp"
+    },
+    {
+      "name": "Nature",
+      "pieces": "nature/{piece}.webp"
+    },
+    {
+      "name": "Neon",
+      "pieces": "neon/{piece}.webp"
+    },
+    {
+      "name": "Sky",
+      "pieces": "sky/{piece}.webp"
+    },
+    {
+      "name": "Tigers",
+      "pieces": "tigers/{piece}.webp"
+    },
+    {
+      "name": "Tournament",
+      "pieces": "tournament/{piece}.webp"
+    },
+    {
+      "name": "Vintage",
+      "pieces": "vintage/{piece}.webp"
+    },
+    {
+      "name": "Band Class",
+      "pieces": "ca09k/{piece}.webp"
+    },
+    {
+      "name": "3D - Wood",
+      "pieces": "3d_wood/{piece}.webp"
+    },
+    {
+      "name": "3D - Staunton",
+      "pieces": "3d_staunton/{piece}.webp"
+    },
+    {
+      "name": "3D - Plastic",
+      "pieces": "3d_plastic/{piece}.webp"
+    },
+    {
+      "name": "3D - ChessKid",
+      "pieces": "3d_chesskid/{piece}.webp"
+    }
+  ]
+}

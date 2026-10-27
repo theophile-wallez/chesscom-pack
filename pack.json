@@ -1,7 +1,11 @@
 {
   "name": "Chess.com",
-  "pieces": "pieces/{piece}.webp",
-  "board": { "image": "board.webp", "light": "#eeeed3", "dark": "#769556" },
+  "pieces": "pieces-1/neo/{piece}.webp",
+  "board": {
+    "image": "boards-1/green/board.webp",
+    "light": "#ebecd0",
+    "dark": "#739552"
+  },
   "sounds": {
     "move-self": "sounds/move-self.mp3",
     "move-opponent": "sounds/move-opponent.mp3",

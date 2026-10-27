@@ -1,0 +1,84 @@
+{
+  "packs": [
+    {
+      "name": "Neo",
+      "pieces": "neo/{piece}.webp"
+    },
+    {
+      "name": "Neo Angle",
+      "pieces": "8qetl/{piece}.webp"
+    },
+    {
+      "name": "Game Room",
+      "pieces": "game_room/{piece}.webp"
+    },
+    {
+      "name": "Wood",
+      "pieces": "wood/{piece}.webp"
+    },
+    {
+      "name": "Glass",
+      "pieces": "glass/{piece}.webp"
+    },
+    {
+      "name": "Gothic",
+      "pieces": "gothic/{piece}.webp"
+    },
+    {
+      "name": "Classic",
+      "pieces": "classic/{piece}.webp"
+    },
+    {
+      "name": "Metal",
+      "pieces": "metal/{piece}.webp"
+    },
+    {
+      "name": "Bases",
+      "pieces": "bases/{piece}.webp"
+    },
+    {
+      "name": "Neo-Wood",
+      "pieces": "neo_wood/{piece}.webp"
+    },
+    {
+      "name": "Icy Sea",
+      "pieces": "icy_sea/{piece}.webp"
+    },
+    {
+      "name": "Club",
+      "pieces": "club/{piece}.webp"
+    },
+    {
+      "name": "Ocean",
+      "pieces": "ocean/{piece}.webp"
+    },
+    {
+      "name": "Newspaper",
+      "pieces": "newspaper/{piece}.webp"
+    },
+    {
+      "name": "Space",
+      "pieces": "space/{piece}.webp"
+    },
+    {
+      "name": "Cases",
+      "pieces": "cases/{piece}.webp"
+    },
+    {
+      "name": "Condal",
+      "pieces": "condal/{piece}.webp"
+    },
+    {
+      "name": "8-Bit",
+      "pieces": "8_bit/{piece}.webp"
+    },
+    {
+      "name": "Marble",
+      "pieces": "marble/{piece}.webp"
+    },
+    {
+      "name": "Book",
+      "pieces": "book/{piece}.webp"
+    }
+  ]
+}

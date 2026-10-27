@@ -1,0 +1,164 @@
+{
+  "packs": [
+    {
+      "name": "Green",
+      "board": {
+        "image": "green/board.webp",
+        "light": "#ebecd0",
+        "dark": "#739552"
+      }
+    },
+    {
+      "name": "Dark Wood",
+      "board": {
+        "image": "dark_wood/board.webp",
+        "light": "#c3a370",
+        "dark": "#7e5736"
+      }
+    },
+    {
+      "name": "Glass",
+      "board": {
+        "image": "glass/board.webp",
+        "light": "#717b8e",
+        "dark": "#282e3c"
+      }
+    },
+    {
+      "name": "Brown",
+      "board": {
+        "image": "brown/board.webp",
+        "light": "#edd6b0",
+        "dark": "#b88762"
+      }
+    },
+    {
+      "name": "Icy Sea",
+      "board": {
+        "image": "icy_sea/board.webp",
+        "light": "#d4dfe4",
+        "dark": "#7fa1b5"
+      }
+    },
+    {
+      "name": "Newspaper",
+      "board": {
+        "image": "newspaper/board.webp",
+        "light": "#cfcdc4",
+        "dark": "#a09e98"
+      }
+    },
+    {
+      "name": "Walnut",
+      "board": {
+        "image": "walnut/board.webp",
+        "light": "#ba9e79",
+        "dark": "#73533a"
+      }
+    },
+    {
+      "name": "Sky",
+      "board": {
+        "image": "sky/board.webp",
+        "light": "#f0f1f0",
+        "dark": "#c4d8e4"
+      }
+    },
+    {
+      "name": "Lolz",
+      "board": {
+        "image": "lolz/board.webp",
+        "light": "#d9e3e4",
+        "dark": "#9ba4a3"
+      }
+    },
+    {
+      "name": "Stone",
+      "board": {
+        "image": "stone/board.webp",
+        "light": "#b0aca5",
+        "dark": "#4e4c4b"
+      }
+    },
+    {
+      "name": "Bases",
+      "board": {
+        "image": "bases/board.webp",
+        "light": "#efc99e",
+        "dark": "#c56e3a"
+      }
+    },
+    {
+      "name": "8-Bit",
+      "board": {
+        "image": "8_bit/board.webp",
+        "light": "#f3f3f4",
+        "dark": "#6a9b41"
+      }
+    },
+    {
+      "name": "Marble",
+      "board": {
+        "image": "marble/board.webp",
+        "light": "#c4bda7",
+        "dark": "#716c66"
+      }
+    },
+    {
+      "name": "Purple",
+      "board": {
+        "image": "purple/board.webp",
+        "light": "#f0f1f0",
+        "dark": "#8476ba"
+      }
+    },
+    {
+      "name": "Translucent",
+      "board": {
+        "image": "translucent/board.webp",
+        "light": "#efefef",
+        "dark": "#ababab"
+      }
+    },
+    {
+      "name": "Metal",
+      "board": {
+        "image": "metal/board.webp",
+        "light": "#d7d7d7",
+        "dark": "#767675"
+      }
+    },
+    {
+      "name": "Tournament",
+      "board": {
+        "image": "tournament/board.webp",
+        "light": "#e9e9e6",
+        "dark": "#32674a"
+      }
+    },
+    {
+      "name": "Dash",
+      "board": {
+        "image": "dash/board.webp",
+        "light": "#ba8e52",
+        "dark": "#6a3826"
+      }
+    },
+    {
+      "name": "Burled Wood",
+      "board": {
+        "image": "burled_wood/board.webp",
+        "light": "#e8c39a",
+        "dark": "#744025"
+      }
+    },
+    {
+      "name": "Blue",
+      "board": {
+        "image": "4fs27/board.webp",
+        "light": "#f2f6fa",
+        "dark": "#5596f2"
+      }
+    }
+  ]
+}

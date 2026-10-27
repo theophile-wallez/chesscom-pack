@@ -1,0 +1,140 @@
+{
+  "packs": [
+    {
+      "name": "Dark Blue",
+      "board": {
+        "image": "blue/board.webp",
+        "light": "#eae9d2",
+        "dark": "#4b7399"
+      }
+    },
+    {
+      "name": "Bubblegum",
+      "board": {
+        "image": "bubblegum/board.webp",
+        "light": "#fefffe",
+        "dark": "#fbd9e1"
+      }
+    },
+    {
+      "name": "Checkers",
+      "board": {
+        "image": "checkers/board.webp",
+        "light": "#c64d52",
+        "dark": "#333333"
+      }
+    },
+    {
+      "name": "Graffiti",
+      "board": {
+        "image": "graffiti/board.webp",
+        "light": "#919191",
+        "dark": "#a68866"
+      }
+    },
+    {
+      "name": "Light",
+      "board": {
+        "image": "light/board.webp",
+        "light": "#d8d9d8",
+        "dark": "#a8a9a8"
+      }
+    },
+    {
+      "name": "Neon",
+      "board": {
+        "image": "neon/board.webp",
+        "light": "#c3c5c5",
+        "dark": "#655c58"
+      }
+    },
+    {
+      "name": "Orange",
+      "board": {
+        "image": "orange/board.webp",
+        "light": "#fae4ae",
+        "dark": "#d18815"
+      }
+    },
+    {
+      "name": "Parchment",
+      "board": {
+        "image": "parchment/board.webp",
+        "light": "#d5d0b2",
+        "dark": "#af955c"
+      }
+    },
+    {
+      "name": "Pink",
+      "board": {
+        "image": "g715q/board.webp",
+        "light": "#f5f0f1",
+        "dark": "#ec94a4"
+      }
+    },
+    {
+      "name": "Red",
+      "board": {
+        "image": "red/board.webp",
+        "light": "#f5dbc3",
+        "dark": "#bb5746"
+      }
+    },
+    {
+      "name": "Sand",
+      "board": {
+        "image": "sand/board.webp",
+        "light": "#d3c4b7",
+        "dark": "#c0ab97"
+      }
+    },
+    {
+      "name": "Tan",
+      "board": {
+        "image": "tan/board.webp",
+        "light": "#edcba5",
+        "dark": "#d8a46d"
+      }
+    },
+    {
+      "name": "Sky and Sea",
+      "board": {
+        "image": "6m5lc/board.webp",
+        "light": "#90bdcd",
+        "dark": "#064b85"
+      }
+    },
+    {
+      "name": "Chess the Musical",
+      "board": {
+        "image": "my2xa/board.webp",
+        "light": "#d7d4d4",
+        "dark": "#807b76"
+      }
+    },
+    {
+      "name": "Band Class",
+      "board": {
+        "image": "ohdxn/board.webp",
+        "light": "#ebddb7",
+        "dark": "#8e8d90"
+      }
+    },
+    {
+      "name": "Naroditsky Memorial",
+      "board": {
+        "image": "bju81/board.webp",
+        "light": "#fbfae9",
+        "dark": "#cea861"
+      }
+    },
+    {
+      "name": "Esports World Cup",
+      "board": {
+        "image": "z4m3d/board.webp",
+        "light": "#f7f7f7",
+        "dark": "#ccaa6c"
+      }
+    }
+  ]
+}
