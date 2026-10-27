@@ -1,0 +1,19 @@
+{
+  "name": "Chess.com",
+  "pieces": "pieces/{piece}.webp",
+  "board": { "image": "board.webp", "light": "#eeeed3", "dark": "#769556" },
+  "sounds": {
+    "move-self": "sounds/move-self.mp3",
+    "move-opponent": "sounds/move-opponent.mp3",
+    "move-check": "sounds/move-check.mp3",
+    "capture": "sounds/capture.mp3",
+    "castle": "sounds/castle.mp3",
+    "promote": "sounds/promote.mp3",
+    "premove": "sounds/premove.mp3",
+    "illegal": "sounds/illegal.mp3",
+    "notify": "sounds/notify.mp3",
+    "tenseconds": "sounds/tenseconds.mp3",
+    "game-start": "sounds/game-start.mp3",
+    "game-end": "sounds/game-end.mp3"
+  }
+}
