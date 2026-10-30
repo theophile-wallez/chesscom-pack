@@ -3,7 +3,7 @@
   "board": [
     {
       "name": "Green",
-      "image": "boards/green/board.webp",
+      "image": "boards/green/board.svg",
       "light": "#ebecd0",
       "dark": "#739552"
     },
@@ -21,7 +21,7 @@
     },
     {
       "name": "Brown",
-      "image": "boards/brown/board.webp",
+      "image": "boards/brown/board.svg",
       "light": "#edd6b0",
       "dark": "#b88762"
     },
@@ -45,7 +45,7 @@
     },
     {
       "name": "Sky",
-      "image": "boards/sky/board.webp",
+      "image": "boards/sky/board.svg",
       "light": "#f0f1f0",
       "dark": "#c4d8e4"
     },
@@ -69,7 +69,7 @@
     },
     {
       "name": "8-Bit",
-      "image": "boards/8_bit/board.webp",
+      "image": "boards/8_bit/board.svg",
       "light": "#f3f3f4",
       "dark": "#6a9b41"
     },
@@ -81,13 +81,13 @@
     },
     {
       "name": "Purple",
-      "image": "boards/purple/board.webp",
+      "image": "boards/purple/board.svg",
       "light": "#f0f1f0",
       "dark": "#8476ba"
     },
     {
       "name": "Translucent",
-      "image": "boards/translucent/board.webp",
+      "image": "boards/translucent/board.svg",
       "light": "#efefef",
       "dark": "#ababab"
     },
@@ -117,25 +117,25 @@
     },
     {
       "name": "Blue",
-      "image": "boards/4fs27/board.webp",
+      "image": "boards/4fs27/board.svg",
       "light": "#f2f6fa",
       "dark": "#5596f2"
     },
     {
       "name": "Dark Blue",
-      "image": "boards/blue/board.webp",
+      "image": "boards/blue/board.svg",
       "light": "#eae9d2",
       "dark": "#4b7399"
     },
     {
       "name": "Bubblegum",
-      "image": "boards/bubblegum/board.webp",
+      "image": "boards/bubblegum/board.svg",
       "light": "#fefffe",
       "dark": "#fbd9e1"
     },
     {
       "name": "Checkers",
-      "image": "boards/checkers/board.webp",
+      "image": "boards/checkers/board.svg",
       "light": "#c64d52",
       "dark": "#333333"
     },
@@ -147,7 +147,7 @@
     },
     {
       "name": "Light",
-      "image": "boards/light/board.webp",
+      "image": "boards/light/board.svg",
       "light": "#d8d9d8",
       "dark": "#a8a9a8"
     },
@@ -159,7 +159,7 @@
     },
     {
       "name": "Orange",
-      "image": "boards/orange/board.webp",
+      "image": "boards/orange/board.svg",
       "light": "#fae4ae",
       "dark": "#d18815"
     },
@@ -171,13 +171,13 @@
     },
     {
       "name": "Pink",
-      "image": "boards/g715q/board.webp",
+      "image": "boards/g715q/board.svg",
       "light": "#f5f0f1",
       "dark": "#ec94a4"
     },
     {
       "name": "Red",
-      "image": "boards/red/board.webp",
+      "image": "boards/red/board.svg",
       "light": "#f5dbc3",
       "dark": "#bb5746"
     },
@@ -189,7 +189,7 @@
     },
     {
       "name": "Tan",
-      "image": "boards/tan/board.webp",
+      "image": "boards/tan/board.svg",
       "light": "#edcba5",
       "dark": "#d8a46d"
     },
@@ -201,7 +201,7 @@
     },
     {
       "name": "Chess the Musical",
-      "image": "boards/my2xa/board.webp",
+      "image": "boards/my2xa/board.svg",
       "light": "#d7d4d4",
       "dark": "#807b76"
     },
@@ -213,13 +213,13 @@
     },
     {
       "name": "Naroditsky Memorial",
-      "image": "boards/bju81/board.webp",
+      "image": "boards/bju81/board.svg",
       "light": "#fbfae9",
       "dark": "#cea861"
     },
     {
       "name": "Esports World Cup",
-      "image": "boards/z4m3d/board.webp",
+      "image": "boards/z4m3d/board.svg",
       "light": "#f7f7f7",
       "dark": "#ccaa6c"
     }
